@@ -1,0 +1,31 @@
+{
+  "name": "marionette.router",
+  "version": "0.1.0",
+  "description": "A more robust Backbone router.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmeas/marionette.router.git"
+  },
+  "keywords": [
+    "backbone",
+    "router",
+    "marionette",
+    "approuter",
+    "routes",
+    "route",
+    "middleware"
+  ],
+  "author": "Jmeas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmeas/marionette.router/issues"
+  },
+  "homepage": "https://github.com/jmeas/marionette.router"
+}

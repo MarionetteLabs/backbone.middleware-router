@@ -1,0 +1,30 @@
+{
+  "name": "marionette.router",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jmeas/marionette.router",
+  "authors": [
+    "Jmeas <jellyes2@gmail.com>"
+  ],
+  "description": "A more robust Backbone router.",
+  "keywords": [
+    "backbone",
+    "router",
+    "marionette",
+    "approuter",
+    "routes",
+    "route",
+    "middleware"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "backbone.marionette": "~1.8.5"
+  }
+}
